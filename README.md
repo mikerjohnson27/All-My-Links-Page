@@ -26,7 +26,7 @@ https://cssgradient.io/
 
 
 # Screenshot
-![](../All-My-Links-Page/styles/img/Screenshot.png)
+![](./styles/img/Screenshot.png)
 
 # Links
 
