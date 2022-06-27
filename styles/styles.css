@@ -1,8 +1,15 @@
+body{
+    background: rgb(252,70,107);
+    background: radial-gradient(circle, rgba(252,70,107,1) 24%, rgba(63,94,251,1) 100%);
+}
 .profilephoto{
     border-radius: 100%; 
     width: 200px;
     height: 200px;
     margin: 10px;
+    border-width: 10px;
+    border-color: rgba(0, 0, 0, 0.826);
+    border-style: solid;
 }
 .nav{
     margin: 10px;
