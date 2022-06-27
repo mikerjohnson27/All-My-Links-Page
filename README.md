@@ -9,6 +9,14 @@ Basic one-page site for all links to and from my portfolio, socials, and project
 ## Can I submit a pull request or contribute? 
 Please feel free to edit for yourself and submit a PR if you would like to add to it. This is still being worked on so just wait I may resolve one of your issues or problems this will likely soon be a full-stack application.
 
+# Links
+
+Blog Post: 
+
+Live Link: https://links.mikerjohnson.com
+
+Repo Link: https://github.com/mikerjohnson27/All-My-Links-Page
+
 # Sources/Tech Used
 
 ### Iconify Used for the Small Icons on The Buttons
@@ -24,14 +32,5 @@ https://cssgradient.io/
 ![](https://img.shields.io/badge/Language-CSS-blue)
 ![](https://img.shields.io/badge/Language-Javascript-yellow)
 
-
 # Screenshot
 ![](./styles/img/Screenshot.png)
-
-# Links
-
-Blog Post: 
-
-Live Link: https://links.mikerjohnson.com
-
-Repo Link: 
