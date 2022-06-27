@@ -1,0 +1,17 @@
+.profilephoto{
+    border-radius: 100%; 
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
+.nav{
+    margin: 10px;
+}
+button{
+    width: 350px;
+    height: 40px;
+    background-color: aquamarine;
+    color: black;
+    border-radius: 10px;
+    margin: 12px;
+}
