@@ -1,14 +1,16 @@
-body{
-    background: rgb(252,70,107);
-    background: radial-gradient(circle, rgba(252,70,107,1) 24%, rgba(63,94,251,1) 100%);
+*{
+    scroll-behavior: smooth;
 }
+body{
+    background: rgb(255,0,0);
+    background: radial-gradient(circle, rgba(255,0,0,0.7960088691796009) 16%, rgba(0,251,255,0.8) 50%, rgba(255,0,0,0.8) 90%);}
 .profilephoto{
     border-radius: 100%; 
     width: 200px;
     height: 200px;
     margin: 10px;
     border-width: 10px;
-    border-color: rgba(0, 0, 0, 0.826);
+    border-color: rgba(152, 152, 152, 0.826);
     border-style: solid;
 }
 .nav{
@@ -17,8 +19,18 @@ body{
 button{
     width: 350px;
     height: 40px;
-    background-color: aquamarine;
-    color: black;
+    background-color: rgb(255, 39, 39);
+    color: rgb(255, 255, 255);
+    font-weight: 550;
     border-radius: 10px;
     margin: 12px;
+}
+button:hover{
+    transition: all 0.5s cubic-bezier(0.46, 0, 1, 0.97) 0s;
+    background-color: rgb(0, 8, 255);
+    color: rgb(0, 0, 0);
+}
+.bottom{
+    text-decoration: none;
+    color: black;
 }
