@@ -34,3 +34,7 @@ button:hover{
     text-decoration: none;
     color: black;
 }
+.bottom:hover{
+    text-decoration: underline;
+    color: blue;
+}
